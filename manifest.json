@@ -1,0 +1,17 @@
+{
+  "name": "ConcursoPro — Estudos",
+  "short_name": "ConcursoPro",
+  "description": "Seu espaço pessoal de estudos para concursos",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050b14",
+  "theme_color": "#071426",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
